@@ -1,5 +1,5 @@
 {
-    "name": "Beetlecoin Web Wallet",
+    "name": "Sovereign Coin Web Wallet",
     "version": "0.8.1",
     "api": {
         "endpoint": "http://localhost:8001/"
