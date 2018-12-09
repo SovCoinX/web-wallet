@@ -122,7 +122,7 @@ export function configure(aurelia) {
         .plugin(PLATFORM.moduleName('aurelia-configuration'), config => {
             config.setEnvironments({
                 dev: ['localhost', 'localhost:9000'],
-                prod: ['webwallet.beetlecoin.io', 'webwallet.beetlecoin.network']
+                prod: ['YOUR WEBPAGE ADDRESS', 'webwallet.beetlecoin.network']
             });
         });
 
